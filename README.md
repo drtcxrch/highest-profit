@@ -39,9 +39,9 @@ The ```printProfitData``` function doesn't have any return values, but it does h
 
 ## Testing
 
-  The tests are contained in the ```test.js``` file, and test for the following:
-    - a JSON file is created when the printProfitData function is called
-    - that the function prints three answers
+The tests are contained in the ```test.js``` file, and test for the following:
+   - a JSON file is created when the printProfitData function is called
+   - that the function prints three answers
 
 ## Requirements
 
