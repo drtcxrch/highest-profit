@@ -3,7 +3,7 @@
 ## Table of Contents
   1. [Input](#Input)
   2. [Output](#Output)
-  3. [Code Details](#Code Details)
+  3. [Code-details](#Code-details)
   4. [Testing](#Testing)
   5. [Requirements](#Requirements)
   6. [Usage](#Usage)
@@ -25,7 +25,7 @@ The ```printProfitData``` function doesn't have any return values, but it does h
    - printing out the top 20 entries ranked in order of highest profit
    - generating a JSON file (```data2.json```) that contains all of the entries from the csv file that have valid profit numbers, ordered from highest profit to lowest profit
 
-## Code Details
+## Code-details
 
   - the function, ```printProfitData``` is contained within the app.js file
   - it does the following:
