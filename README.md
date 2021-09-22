@@ -3,10 +3,10 @@
 ## Table of Contents
   1. [Input](#Input)
   2. [Output](#Output)
-  3. [Code Details]()
-  4. [Testing]()
-  5. [Requirements]()
-  6. [Usage]()
+  3. [Code Details](#Code Details)
+  4. [Testing](#Testing)
+  5. [Requirements](#Requirements)
+  6. [Usage](#Usage)
 
 ## Input
 
