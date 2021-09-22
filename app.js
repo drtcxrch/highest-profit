@@ -6,7 +6,7 @@ const printProfitData = async function() {
   try {
     let fileData = fs.readFileSync('./data.csv', 'utf8');
     let lines = fileData.split('\n');
-    console.log(`1) There are ${lines.length} lines of data, including the header.`);
+    console.log(`1) There are ${lines.length - 1}.`);
     let validProfitData = [];
     let validNumCount = 0;
 
@@ -41,3 +41,5 @@ const printProfitData = async function() {
 }
 
 printProfitData();
+
+module.exports = { printProfitData };
